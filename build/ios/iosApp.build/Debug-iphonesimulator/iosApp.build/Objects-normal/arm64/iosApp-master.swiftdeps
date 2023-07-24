@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "029cda7cf562553728b031d305ccc1ecaeab90ae94d7ddc15723ba264e795a34"
+build_start_time: [1690193680, 302885055]
+build_end_time: [1690193682, 798187971]
+inputs:
+  "/Users/shinyaokochi/Desktop/develop/news-app-kmm/iosApp/iosApp/ContentView.swift": [1690193244, 127722740]
+  "/Users/shinyaokochi/Desktop/develop/news-app-kmm/iosApp/iosApp/iOSApp.swift": [1690193244, 131753206]

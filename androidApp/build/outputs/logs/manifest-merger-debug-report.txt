@@ -1,0 +1,299 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/shinyaokochi/Desktop/develop/news-app-kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6eae802c545b3150654f5071a28bd108/transformed/material-ripple-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f8f4b5d5e801ff8e1b771b880a68e4bc/transformed/material-icons-core-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/282db90163eb42bb7b629b3ba9d37b23/transformed/material-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/7e5b03f2d4fb1b158f370c05ccdae08d/transformed/animation-core-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/27bc0d4a7b263b5cb6c54e00eb111731/transformed/animation-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/ffdcdf04dc1b17c2f4960299e7c2d20a/transformed/foundation-layout-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/eca3e805b68b940c723d1f95e2ffad82/transformed/foundation-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f252204d757988d76631aabc0f94a5ed/transformed/ui-tooling-data-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/d48e268f3543c56f6127c63acd3f9718/transformed/ui-util-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/43ad733fe259babdcb586c036c07e543/transformed/ui-unit-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/265fa2b881ab636cf1599c5e15de1714/transformed/ui-text-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/2c27f4e07fe12a84d49a74faeb0b05b8/transformed/ui-graphics-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/18e599250681c290a1f8036b08c7c682/transformed/ui-geometry-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/c06a0fee2565e262f10b44b26a03fb8f/transformed/ui-tooling-preview-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ce37fba9dba57f86940cdc7d6cbbae54/transformed/activity-1.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1162b82396306f46efb2d709c4571d1b/transformed/activity-ktx-1.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ad6357cec9adaddf7b12d3ae976e05a3/transformed/activity-compose-1.7.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/57be5e4d27d02b80da17a7e5626a16b5/transformed/ui-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5333137fe69b606be3a5412d237006ad/transformed/runtime-saveable-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5d9f98f18cb44059480df9f88e888e36/transformed/runtime-1.4.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/6d756dd00bbb75cde3dad97236c9e503/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/61345afebcbc043761a2c3aedf7f1809/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/7d11eb27d84483f762ef6a062d81a92c/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/77c87ae14c66a8d4da903104d5df5032/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/c2777865c8e857ff291e97590b64194b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/82ce6ca6155a837ba9907e8c86494cca/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/d56a4586ed57c565098bc1565f4bf429/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/5b101d8a71f13852f281a8816f68f3c7/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/2c96b80c008ddb38b7c92f16800ac2c7/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/488eee686f4568cddc768c3d5b61c2a5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1afe1f07cff3a43f077d54acc30c4d07/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/5158c72c4f4048a27b790b2ccc3c142b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/shinyaokochi/.gradle/caches/transforms-3/c0d3bcf9ac295d749a684d42ad176baa/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/440500797758976d8529840f5510ed14/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/1f2d0cf7ef2daa17c91dac7b1635754c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/5158c72c4f4048a27b790b2ccc3c142b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/5158c72c4f4048a27b790b2ccc3c142b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:7:9-40
+activity#com.example.news_app_kmm.android.MainActivity
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/shinyaokochi/Desktop/develop/news-app-kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /Users/shinyaokochi/Desktop/develop/news-app-kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6eae802c545b3150654f5071a28bd108/transformed/material-ripple-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6eae802c545b3150654f5071a28bd108/transformed/material-ripple-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f8f4b5d5e801ff8e1b771b880a68e4bc/transformed/material-icons-core-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f8f4b5d5e801ff8e1b771b880a68e4bc/transformed/material-icons-core-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/282db90163eb42bb7b629b3ba9d37b23/transformed/material-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/282db90163eb42bb7b629b3ba9d37b23/transformed/material-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/7e5b03f2d4fb1b158f370c05ccdae08d/transformed/animation-core-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/7e5b03f2d4fb1b158f370c05ccdae08d/transformed/animation-core-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/27bc0d4a7b263b5cb6c54e00eb111731/transformed/animation-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/27bc0d4a7b263b5cb6c54e00eb111731/transformed/animation-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/ffdcdf04dc1b17c2f4960299e7c2d20a/transformed/foundation-layout-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/ffdcdf04dc1b17c2f4960299e7c2d20a/transformed/foundation-layout-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/eca3e805b68b940c723d1f95e2ffad82/transformed/foundation-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/eca3e805b68b940c723d1f95e2ffad82/transformed/foundation-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f252204d757988d76631aabc0f94a5ed/transformed/ui-tooling-data-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/f252204d757988d76631aabc0f94a5ed/transformed/ui-tooling-data-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/d48e268f3543c56f6127c63acd3f9718/transformed/ui-util-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/d48e268f3543c56f6127c63acd3f9718/transformed/ui-util-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/43ad733fe259babdcb586c036c07e543/transformed/ui-unit-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/43ad733fe259babdcb586c036c07e543/transformed/ui-unit-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/265fa2b881ab636cf1599c5e15de1714/transformed/ui-text-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/265fa2b881ab636cf1599c5e15de1714/transformed/ui-text-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/2c27f4e07fe12a84d49a74faeb0b05b8/transformed/ui-graphics-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/2c27f4e07fe12a84d49a74faeb0b05b8/transformed/ui-graphics-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/18e599250681c290a1f8036b08c7c682/transformed/ui-geometry-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/18e599250681c290a1f8036b08c7c682/transformed/ui-geometry-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/c06a0fee2565e262f10b44b26a03fb8f/transformed/ui-tooling-preview-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/c06a0fee2565e262f10b44b26a03fb8f/transformed/ui-tooling-preview-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ce37fba9dba57f86940cdc7d6cbbae54/transformed/activity-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ce37fba9dba57f86940cdc7d6cbbae54/transformed/activity-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1162b82396306f46efb2d709c4571d1b/transformed/activity-ktx-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1162b82396306f46efb2d709c4571d1b/transformed/activity-ktx-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ad6357cec9adaddf7b12d3ae976e05a3/transformed/activity-compose-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.1] /Users/shinyaokochi/.gradle/caches/transforms-3/ad6357cec9adaddf7b12d3ae976e05a3/transformed/activity-compose-1.7.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/57be5e4d27d02b80da17a7e5626a16b5/transformed/ui-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/57be5e4d27d02b80da17a7e5626a16b5/transformed/ui-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5333137fe69b606be3a5412d237006ad/transformed/runtime-saveable-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5333137fe69b606be3a5412d237006ad/transformed/runtime-saveable-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5d9f98f18cb44059480df9f88e888e36/transformed/runtime-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/5d9f98f18cb44059480df9f88e888e36/transformed/runtime-1.4.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/6d756dd00bbb75cde3dad97236c9e503/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/6d756dd00bbb75cde3dad97236c9e503/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/61345afebcbc043761a2c3aedf7f1809/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/61345afebcbc043761a2c3aedf7f1809/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/7d11eb27d84483f762ef6a062d81a92c/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/7d11eb27d84483f762ef6a062d81a92c/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/77c87ae14c66a8d4da903104d5df5032/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/77c87ae14c66a8d4da903104d5df5032/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/c2777865c8e857ff291e97590b64194b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/c2777865c8e857ff291e97590b64194b/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/82ce6ca6155a837ba9907e8c86494cca/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/82ce6ca6155a837ba9907e8c86494cca/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/d56a4586ed57c565098bc1565f4bf429/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/d56a4586ed57c565098bc1565f4bf429/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/5b101d8a71f13852f281a8816f68f3c7/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/5b101d8a71f13852f281a8816f68f3c7/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/2c96b80c008ddb38b7c92f16800ac2c7/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/2c96b80c008ddb38b7c92f16800ac2c7/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/488eee686f4568cddc768c3d5b61c2a5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/488eee686f4568cddc768c3d5b61c2a5/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1afe1f07cff3a43f077d54acc30c4d07/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/shinyaokochi/.gradle/caches/transforms-3/1afe1f07cff3a43f077d54acc30c4d07/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/5158c72c4f4048a27b790b2ccc3c142b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/5158c72c4f4048a27b790b2ccc3c142b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/shinyaokochi/.gradle/caches/transforms-3/c0d3bcf9ac295d749a684d42ad176baa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/shinyaokochi/.gradle/caches/transforms-3/c0d3bcf9ac295d749a684d42ad176baa/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/440500797758976d8529840f5510ed14/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinyaokochi/.gradle/caches/transforms-3/440500797758976d8529840f5510ed14/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/1f2d0cf7ef2daa17c91dac7b1635754c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/1f2d0cf7ef2daa17c91dac7b1635754c/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/shinyaokochi/Desktop/develop/news-app-kmm/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.3] /Users/shinyaokochi/.gradle/caches/transforms-3/6b94fdadc19b8666e42a7f298e5c903f/transformed/ui-tooling-1.4.3/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/shinyaokochi/.gradle/caches/transforms-3/027fc61fa7d7c372c3fb9d8300d19cfb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3992d287297eaf2fec6c84d03aae9853/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/shinyaokochi/.gradle/caches/transforms-3/a8829c98ee47227502dec975b4f0b826/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.news_app_kmm.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.news_app_kmm.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/shinyaokochi/.gradle/caches/transforms-3/3c5d293491d3552880cd78aee32f88fa/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/shinyaokochi/.gradle/caches/transforms-3/ba08e0c7e0b6dc7a9cf9d690688a8a8c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
